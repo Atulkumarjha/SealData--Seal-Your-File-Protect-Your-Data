@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
+import  Select from '../components/select'
 
 
 export default function Dashboard() {
@@ -7,5 +8,6 @@ export default function Dashboard() {
         
     <div>
         <Navbar />
+        <Select />
     </div>
 )}
