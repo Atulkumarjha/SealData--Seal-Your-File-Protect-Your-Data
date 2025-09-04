@@ -6,7 +6,7 @@ export default function Navbar() {
         left: 0,
         width: "100%",
         height: "60px",
-        backgroundColor: "#001A00",
+        backgroundColor: "#081d16",
         color: "white",
         padding: "1rem 1.5 rem",
         display: "flex",
@@ -28,7 +28,7 @@ export default function Navbar() {
       >
         <h1>
           <span style={{
-            color:"rgba(144, 238, 144, 1)"
+            color:"#36a968"
           }}>Seal</span>
           <span>Data</span>
         </h1>

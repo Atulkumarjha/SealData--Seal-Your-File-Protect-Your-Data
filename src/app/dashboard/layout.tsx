@@ -8,7 +8,7 @@ export default function DashboardLayout({
 }) {
   return (
     <div 
-      style={{ background: 'linear-gradient(to bottom, #001A00, #001A00, #001A00)' }}
+      style={{ background: 'linear-gradient(to bottom, #081d16, #000503, #04261b)' }}
       className="relative z-50 min-h-screen w-full flex"
     >
       
